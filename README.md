@@ -42,3 +42,4 @@ The gem is available as open source under the terms of the [MIT License](https:/
 
 Everyone interacting in the Jake20aViewTool project’s codebases, issue trackers, chat rooms and mailing lists is expected to follow the [code of conduct](https://github.com/[USERNAME]/jake20a_view_tool/blob/master/CODE_OF_CONDUCT.md).
 # jake20a_view_tool
+# jake20a_view_tool
