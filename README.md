@@ -1,8 +1,4 @@
-# Jake20aViewTool
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/jake20a_view_tool`. To experiment with that code, run `bin/console` for an interactive prompt.
-
-TODO: Delete this and the text above, and describe your gem
 
 ## Installation
 
@@ -21,8 +17,8 @@ Or install it yourself as:
     $ gem install jake20a_view_tool
 
 ## Usage
-
-TODO: Write usage instructions here
+	ruby
+	@copyright = JakeAndersen::Renderer.copyright "Jacob Andersen", "All rights reserved"
 
 ## Development
 
